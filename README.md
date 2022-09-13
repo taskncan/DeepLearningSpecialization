@@ -1,1 +1,1 @@
-# DeepLearningSpecialization offered by DeepLearning.ai
+# Deep Learning Specialization offered by DeepLearning.ai
